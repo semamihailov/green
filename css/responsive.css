@@ -186,6 +186,13 @@
     .top-right-img{
         display: block;
     }
+    .telegram-content-title{
+        display: block;
+    }
+    .telegram-bg{
+        background-image: url("../images/telegram-content-bg_mobile.png");
+    }
+
 }
 @media screen and (max-width : 380px){
     .index-main{
